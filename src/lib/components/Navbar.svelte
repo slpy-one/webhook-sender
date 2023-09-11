@@ -1,8 +1,8 @@
 <script lang="ts">
   import { page } from "$app/stores";
 
-  const Button = "p-4 hover:bg-ctp-overlay0 hover:text-ctp-text hover:opacity-60"
-  const ActiveButton = `${Button} !bg-ctp-overlay0 !text-ctp-text !opacity-60`
+  const Button = "p-4 hover:bg-ctp-overlay0 hover:text-ctp-sapphire hover:opacity-60"
+  const ActiveButton = `${Button} !bg-ctp-overlay0 !text-ctp-sapphire !opacity-60`
 </script>
 
 <div class="w-full fixed top-0 flex flex-row z-30">
